@@ -1,7 +1,7 @@
 ```markdown
 # Sufi Compiler
 
-Sufi is a lightweight compiler toolchain designed to replace TinyCC with a simplified and unified build system. This installer provides the `sufi` command-line compiler for Windows.
+Sufi is a lightweight compiler toolchain designed to compile the Sufi programming language with a simplified and unified build system. This installer provides the `sufi` command-line compiler for Windows.
 
 ---
 
