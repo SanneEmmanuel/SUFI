@@ -12,6 +12,7 @@ Developed and Licensed by CS-Tech
 Sufi-Lang is a next-generation compiled programming language built for one purpose:
 
 > **Maximum speed with minimum complexity.**
+> often 8X faster than c++
 
 Sufi combines:
 
