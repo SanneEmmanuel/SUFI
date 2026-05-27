@@ -4,9 +4,9 @@
 
 Download:
 
-- `Sufi-Installer.pkg`
+- `Sufi-MacOS(V**).zip`
 
-from the GitHub Actions artifacts or releases page.
+from the GitHub repo above here and unzip to extract the pkg
 
 ---
 
